@@ -1,0 +1,4 @@
+.click-effect:active {
+  background-color: green;
+  box-shadow: gainsboro;
+}
